@@ -1,5 +1,5 @@
 # meta-project_embodied_ai_robotics
-具身智能(Embodied-AI).
+具身智能(Embodied-AI) is an another form of AI life.
 
 Refers: https://github.com/haoranD/Awesome-Embodied-AI
 
