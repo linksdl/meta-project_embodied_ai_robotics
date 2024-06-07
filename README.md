@@ -15,7 +15,7 @@ Refers: https://github.com/haoranD/Awesome-Embodied-AI, https://github.com/zchoi
 
 
 4, [Embodied Artificial Intelligence: Enabling the Next Intelligence Revolution](https://iopscience.iop.org/article/10.1088/1757-899X/1261/1/012001)
-There has been a long-standing debate about the extent to which the human mind controls the human body and vice-versa. Today this debate still powers a profound scientific desire to deepen our understanding of the nature of both humans' and animals' intelligent, adaptive behavior. In order to gain further insights into intelligence and explore how our brain and bodies develop through physical interactions with the world, Embodied Intelligence places the physical entity of the human body at the center of this subject. 
+> There has been a long-standing debate about the extent to which the human mind controls the human body and vice-versa. Today this debate still powers a profound scientific desire to deepen our understanding of the nature of both humans' and animals' intelligent, adaptive behavior. In order to gain further insights into intelligence and explore how our brain and bodies develop through physical interactions with the world, Embodied Intelligence places the physical entity of the human body at the center of this subject. 
 
 
 # Companies
