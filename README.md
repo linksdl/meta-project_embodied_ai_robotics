@@ -2,5 +2,4 @@
 
 
 # Papers
-
-{A call for embodied AI}[https://arxiv.org/abs/2402.03824]
+[A call for embodied AI](https://arxiv.org/abs/2402.03824)
