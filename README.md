@@ -1,7 +1,7 @@
 # meta-project_embodied_ai_robotics
-具身智能(Embodied-AI) is an another form of AI life.
+Embodied-AI is an another form of AI life, and it will be change everything of the world.
 
-Refers: https://github.com/haoranD/Awesome-Embodied-AI
+Refers: https://github.com/haoranD/Awesome-Embodied-AI, https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs
 
 # Papers
 1, [A call for embodied AI](https://arxiv.org/abs/2402.03824)
